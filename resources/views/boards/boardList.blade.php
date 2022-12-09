@@ -6,7 +6,7 @@
 
 		<title>example-app</title>
 
-		<link href="/resources/css/app.css" rel="stylesheet">
+		<link href="/css/app.css" rel="stylesheet">
 	</head>
 	<body>
 		<div class="container">
